@@ -37,10 +37,10 @@
 	--textdarker: 				115,115,115;			/*	Text Color 5		 - 	default:	114,118,125		 - 	hex:	#72767d		*/
 	--textdarkest: 				80,80,80;				/*	Text Color 6		 - 	default:	79,84,92		 - 	hex:	#4f545c		*/
 	
-	--backgroundaccent: 		153, 133, 124;				/*	Background Accent	 - 	default:	64,68,75		 - 	hex:	#40444b		*/
-	--backgroundprimary: 		107, 98, 88;				/*	Background 1		 - 	default:	54,57,63		 - 	hex:	#36393f		*/
-	--backgroundsecondary: 		117, 106, 94;				/*	Background 2		 - 	default:	47,49,54		 - 	hex:	#2f3136		*/
-	--backgroundsecondaryalt: 	110, 97, 87;				/*	Background 3		 - 	default:	41,43,47		 - 	hex:	#292b2f		*/
+	--backgroundaccent: 		64,68,75;				/*	Background Accent	 - 	default:	64,68,75		 - 	hex:	#40444b		*/
+	--backgroundprimary: 		154,57,63;				/*	Background 1		 - 	default:	54,57,63		 - 	hex:	#36393f		*/
+	--backgroundsecondary: 		47,49,54;				/*	Background 2		 - 	default:	47,49,54		 - 	hex:	#2f3136		*/
+	--backgroundsecondaryalt: 	41,43,47;				/*	Background 3		 - 	default:	41,43,47		 - 	hex:	#292b2f		*/
 	--backgroundtertiary: 		77, 68, 62;				/*	Background 4		 - 	default:	32,34,37		 - 	hex:	#202225		*/
-	--backgroundfloating: 		82, 73, 67;					/*	Background Elevated	 - 	default:	24,25,28		 - 	hex:	#18191c		*/
+	--backgroundfloating: 		32,34,37;					/*	Background Elevated	 - 	default:	24,25,28		 - 	hex:	#18191c		*/
 }
